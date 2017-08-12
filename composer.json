@@ -1,0 +1,26 @@
+{
+    "name": "robertfridzema/cdn-prefixer",
+    "description": "Little optional cdn url prefixer, can be used as an replacement for the default asset helper",
+    "keywords": [
+        "laravel", "cdn", "asset", "prefixer"
+    ],
+    "homepage": "https://github.com/fridzema/cdn-prefixer",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Robert Fridzema",
+            "email": "fridzema@gmail.com",
+            "homepage": "https://fridzema.com",
+            "role": "Developer"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+    	"php" : ">=5.6.4"
+    },
+    "autoload": {
+        "psr-4": {
+            "Fridzema\\CdnPrefixer\\": "src"
+        }
+    }
+}
