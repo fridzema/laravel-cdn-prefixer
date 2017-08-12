@@ -1,5 +1,5 @@
 {
-    "name": "robertfridzema/cdn-prefixer",
+    "name": "fridzema/cdn-prefixer",
     "description": "Little optional cdn url prefixer, can be used as an replacement for the default asset helper",
     "keywords": [
         "laravel", "cdn", "asset", "prefixer"
